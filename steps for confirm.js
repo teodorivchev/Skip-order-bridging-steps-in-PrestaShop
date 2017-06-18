@@ -21,6 +21,7 @@ $(document).ready(function() {
 
         }
     }
+	/*auto submit form*/
     if (al === "Test Tesa") {
         if (url2 === "http://kanor.bg/module/bankwire/payment") {
             $('form').submit();
